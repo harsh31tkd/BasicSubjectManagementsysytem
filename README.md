@@ -82,12 +82,7 @@ screenshot:
 ![pic 5](https://github.com/user-attachments/assets/50791431-ed37-47a3-bfa4-c6871448a8e8)
 
 
-🤝 Contribution
-
-Feel free to fork this repo and submit pull requests with improvements.
-Suggestions and feedback are always welcome!
-
-🤝 Contribution
+## 🤝 Contribution
 
 Feel free to fork this repo and submit pull requests with improvements.
 Suggestions and feedback are always welcome!
