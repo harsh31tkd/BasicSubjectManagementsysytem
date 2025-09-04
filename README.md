@@ -86,3 +86,10 @@ screenshot:
 
 Feel free to fork this repo and submit pull requests with improvements.
 Suggestions and feedback are always welcome!
+
+## 📜 License
+
+This project is licensed under the MIT License – feel free to use and modify it.
+
+Made with ❤️ by [Harsh](https://github.com/harsh31tkd)
+
